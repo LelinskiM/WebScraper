@@ -25,5 +25,18 @@
 - 90558892
 - 174130671
 
-### Product Structure
+### Opinion structure Structure
+|components|name|selector|
+|----------|----|--------|
+|opinion ID|opinion_id|[data-entry-id]|
+|opinion’s author|author|span.user-post__author-name|
+|author’s recommendation|recomendations|span.user-post__author-recomendation > em|
+|score expressed in number of stars|score|span.user-post__score|
+|opinion’s content|content|div.user-post__text|
+|list of product advantages|pros|div.review-feature__item--positive|
+|list of product disadvantages|cons|div.review-feature__item--negative|
+|how many users think that opinion was helpful|helpfull|button.vote.yes > span|
+|how many users think that opinion was unhelpful|unhelpfull|button.vote.no > span|
+|publishing date|publishing_date|span.user-post__published > time:nth-child(1)[daytime]|
+|purchase date|purchese_date|user-post__published > time:nth-shild(2)[daytime]|
 
