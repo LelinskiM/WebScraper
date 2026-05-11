@@ -208,3 +208,5 @@ __marimo__/
 
 #app
 opinions/
+config.yaml
+schedule/
