@@ -43,20 +43,21 @@
 217,2026-05-18,Computer Programming 2,ćwiczenia,dr Katarzyna Wójcik,Paw.A 013 lab. ,Pn,13:15,15:45,3
 227,2026-05-20,Operating Systems and Computer Networks,ćwiczenia,prof. UEK dr hab. Joanna Wyrobek,Paw.A 014 lab. ,Śr,13:15,14:45,2
 229,2026-05-20,Discrete mathematics,ćwiczenia,dr Igor Sikora,Paw.U sala N,Śr,15:00,16:30,2
-235,2026-05-21,Discrete mathematics,ćwiczenia,dr Igor Sikora,Paw.B 052 (KSB),Cz,13:15,14:45,2
+235,2026-05-21,Discrete mathematics,ćwiczenia,dr Igor Sikora,Paw.F 614,Cz,13:15,14:45,2
 237,2026-05-21,Operating Systems and Computer Networks,ćwiczenia,prof. UEK dr hab. Joanna Wyrobek,Paw.A 07 lab. ,Cz,15:00,16:30,2
 239,2026-05-21,Information Systems,ćwiczenia,mgr inż. Justyna Olczak,Bibl.425,Cz,16:45,18:15,2
 243,2026-05-25,Computer Programming 2,ćwiczenia,dr Katarzyna Wójcik,Paw.A 013 lab. ,Pn,13:15,15:45,3
 251,2026-05-27,Discrete mathematics,ćwiczenia,dr Igor Sikora,Paw.U sala N,Śr,15:00,16:30,2
 254,2026-06-01,Computer Programming 2,ćwiczenia,dr Katarzyna Wójcik,Paw.A 013 lab. ,Pn,13:15,15:45,3
-259,2026-06-02,Probability and Statistics,ćwiczenia,prof. dr hab. Andrzej Sokołowski,Paw.A 07 lab. ,Wt,13:15,14:45,2
-267,2026-06-03,Operating Systems and Computer Networks,ćwiczenia,prof. UEK dr hab. Joanna Wyrobek,Paw.A 014 lab. ,Śr,13:15,14:45,2
-269,2026-06-03,Discrete mathematics,ćwiczenia,dr Igor Sikora,Paw.U sala N,Śr,15:00,16:30,2
-273,2026-06-08,Computer Programming 2,ćwiczenia,dr Katarzyna Wójcik,Paw.A 013 lab. ,Pn,13:15,15:45,3
-278,2026-06-09,Probability and Statistics,ćwiczenia,prof. dr hab. Andrzej Sokołowski,Paw.A 013 lab. ,Wt,08:00,09:30,2
-282,2026-06-09,Probability and Statistics,ćwiczenia,prof. dr hab. Andrzej Sokołowski,Paw.A 07 lab. ,Wt,14:00,14:45,1
-293,2026-06-11,Operating Systems and Computer Networks,ćwiczenia,prof. UEK dr hab. Joanna Wyrobek,Paw.A 07 lab. ,Cz,15:00,16:30,2
-295,2026-06-11,Information Systems,ćwiczenia,mgr inż. Justyna Olczak,Paw.A 014 lab. ,Cz,16:45,17:30,1
-296,2026-06-11,Operating Systems and Computer Networks,ćwiczenia,prof. UEK dr hab. Joanna Wyrobek,Paw.A 07 lab. ,Cz,18:30,20:00,2
-298,2026-06-17,Discrete mathematics,egzamin,dr Grzegorz Kosiorowski,Paw.C Nowa Aula,Śr,10:30,13:00,3
-299,2026-09-03,Discrete mathematics,egzamin,dr Grzegorz Kosiorowski,Paw.F 102,Cz,10:30,13:00,3
+256,2026-06-01,Probability and Statistics,ćwiczenia,prof. dr hab. Andrzej Sokołowski,Paw.A 301a lab.,Pn,16:45,18:15,2
+261,2026-06-02,Probability and Statistics,ćwiczenia,prof. dr hab. Andrzej Sokołowski,Paw.A 07 lab. ,Wt,13:15,14:45,2
+269,2026-06-03,Operating Systems and Computer Networks,ćwiczenia,prof. UEK dr hab. Joanna Wyrobek,Paw.A 014 lab. ,Śr,13:15,14:45,2
+271,2026-06-03,Discrete mathematics,ćwiczenia,dr Igor Sikora,Paw.U sala N,Śr,15:00,16:30,2
+275,2026-06-08,Computer Programming 2,ćwiczenia,dr Katarzyna Wójcik,Paw.A 013 lab. ,Pn,13:15,15:45,3
+299,2026-06-11,Probability and Statistics,ćwiczenia,prof. dr hab. Andrzej Sokołowski,Paw.A 07 lab. ,Cz,09:45,10:30,1
+302,2026-06-11,Operating Systems and Computer Networks,ćwiczenia,prof. UEK dr hab. Joanna Wyrobek,Paw.A 07 lab. ,Cz,15:00,16:30,2
+304,2026-06-11,Information Systems,ćwiczenia,mgr inż. Justyna Olczak,Paw.A 014 lab. ,Cz,16:45,17:30,1
+305,2026-06-11,Operating Systems and Computer Networks,ćwiczenia,prof. UEK dr hab. Joanna Wyrobek,Paw.A 07 lab. ,Cz,18:30,20:00,2
+307,2026-06-17,Discrete mathematics,egzamin,dr Grzegorz Kosiorowski,Paw.C Nowa Aula,Śr,10:30,13:00,3
+308,2026-06-26,Operating Systems and Computer Networks,egzamin,prof. UEK dr hab. Joanna Wyrobek,Paw.A 07 lab. ,Pt,10:30,12:15,2
+309,2026-09-03,Discrete mathematics,egzamin,dr Grzegorz Kosiorowski,Paw.F 102,Cz,10:30,13:00,3
